@@ -1,2 +1,3 @@
 # Osnove kvaliteta
  
+U okviru ovog rada analiziran je jedan od proizvoda kompanije *Bambi*. Opisane su karakteristike, sastavnica, komponente i dimenzije kvaliteta proizvoda. Urađeno je identifikovanje interesnih i zainteresovanih strana. Prikazan je proces proizvodnje i proces pružanja usluga. Kreiran je dijagram trilogije kvaliteta. Napravljena je dijagnoza troškova kvaliteta vezanih za proizvod.
